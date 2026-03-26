@@ -6,7 +6,6 @@ Trabalho acadêmico desenvolvido como requisito para a disciplina de Projeto Int
 
   
 _____________________________________________________
-
 # 📌 Visão Geral do Projeto
 
 O presente projeto propõe o desenvolvimento de uma plataforma digital especializada na gestão e correção de produções textuais para vestibulandos e estudantes em geral. O ecossistema visa otimizar o ciclo de aprendizagem da escrita, oferecendo um ambiente integrado para a submissão de redações e o recebimento de feedbacks detalhados.
@@ -51,5 +50,32 @@ A proposta é apoiar o estudante por meio de:
 O sistema prioriza a excelência na escrita, incentivando o pensamento crítico, a fluidez argumentativa e a autonomia do estudante na construção de textos de alto impacto.
 
 _____________________________________________________
-#   Backlog Sistema Educacional PIM III
-Este repositório contém o backlog do projeto do sistema educacional do PIM III do terceiro semestre de 2026.
+# 💻 Arquitetura Técnica
+
+• **Front-end:** HTML, CSS e Bootstrap (Interface Responsiva) <br> 
+
+• **Framework:** Metodologia Ágil Scrum (Sprints quinzenais e foco em entrega contínua) <br>
+
+• **Back-end:** C# (Lógica e Processamento) <br>
+
+• **Dados:** SQL e NoSQL (Persistência e Escalabilidade) <br>
+
+• **Versão:** GitHub (Gestão de Código)
+
+_____________________________________________________
+# 📊 Gestão Ágil (Scrum)
+
+• **Product Backlog:** Centralização de requisitos em Issues. <br> 
+
+• **Sprint Backlog:** Priorização de tarefas para entregas quinzenais. <br>
+
+• **Daily & Review:** Monitoramento de progresso e validação de incrementos. <br>
+
+• **Pull Requests:** Revisão por pares para garantia de qualidade do código.
+
+_____________________________________________________
+# 👩‍💻 Designação de Papéis Operacionais
+
+• **GC – Geovana Carvalho dos Santos**:  PO e Dev <br> 
+
+• **LM – Larissa de Oliveira Marangon Ramalho** – Scrum Master e PM. 
