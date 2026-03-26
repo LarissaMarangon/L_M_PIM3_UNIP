@@ -1,4 +1,3 @@
-# L_M_PIM3_UNIP
 ##  💻 ✨ Nome fantasioso do projeto
 
 Trabalho acadêmico desenvolvido como requisito para a disciplina de Projeto Integrado Multidisciplinar III (PIM III), no âmbito do curso de Tecnologia em Análise e Desenvolvimento de Sistemas da Universidade Paulista (UNIP).
