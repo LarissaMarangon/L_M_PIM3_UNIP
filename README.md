@@ -1,4 +1,4 @@
-##  💻 ✨ Nome fantasioso do projeto
+# 💻 ✨ Nome fantasioso do projeto
 
 Trabalho acadêmico desenvolvido como requisito para a disciplina de Projeto Integrado Multidisciplinar III (PIM III), no âmbito do curso de Tecnologia em Análise e Desenvolvimento de Sistemas da Universidade Paulista (UNIP).
 
@@ -11,9 +11,9 @@ O presente projeto propõe o desenvolvimento de uma plataforma digital especiali
 
 O diferencial estratégico da solução reside em seu modelo de correção bimodal:
 
-Processamento Automatizado (IA): Utilização de algoritmos de Inteligência Artificial para análises gramaticais e estruturais instantâneas.
+• **Processamento Automatizado (IA):** Utilização de algoritmos de Inteligência Artificial para análises gramaticais e estruturais instantâneas.
 
-Intervenção Pedagógica (Tutoria): Avaliação humana personalizada para critérios subjetivos e argumentativos.
+• **Intervenção Pedagógica (Tutoria):** Avaliação humana personalizada para critérios subjetivos e argumentativos.
 
 Dessa forma, a ferramenta atua como um suporte dinâmico na preparação para exames de alto desempenho, unindo a agilidade tecnológica à precisão da correção especializada.
 
