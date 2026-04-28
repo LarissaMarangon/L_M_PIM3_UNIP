@@ -1,4 +1,4 @@
-# 💻 ✨ Nome fantasioso do projeto
+# 💻 ✨ Inkflow
 
 Trabalho acadêmico desenvolvido como requisito para a disciplina de Projeto Integrado Multidisciplinar III (PIM III), no âmbito do curso de Tecnologia em Análise e Desenvolvimento de Sistemas da Universidade Paulista (UNIP).
 
