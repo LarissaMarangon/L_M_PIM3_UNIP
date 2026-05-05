@@ -7,13 +7,13 @@ Trabalho acadêmico desenvolvido como requisito para a disciplina de Projeto Int
 _____________________________________________________
 # 📌 Visão Geral do Projeto
 
-O presente projeto propõe o desenvolvimento de uma plataforma digital especializada na gestão e correção de produções textuais para vestibulandos e estudantes em geral. O ecossistema visa otimizar o ciclo de aprendizagem da escrita, oferecendo um ambiente integrado para a submissão de redações e o recebimento de feedbacks detalhados.
+O presente projeto propõe o desenvolvimento de uma plataforma digital especializada na gestão de questões e simulados da prova do ENADE para estudantes da área da tecnologia. O ecossistema visa otimizar o ciclo de aprendizagem, oferecendo um ambiente integrado para a resolução de problemas e o recebimento de feedbacks detalhados.
 
 O diferencial estratégico da solução reside em seu modelo de correção bimodal:
 
-• **Processamento Automatizado (IA):** Utilização de algoritmos de Inteligência Artificial para análises gramaticais e estruturais instantâneas.
+• **Processamento Automatizado (IA):** Utilização de algoritmos de Inteligência Artificial para análises e respostas instantâneas.
 
-• **Intervenção Pedagógica (Tutoria):** Avaliação humana personalizada para critérios subjetivos e argumentativos.
+• **Intervenção Pedagógica (Tutoria):** Avaliação humana personalizada para critérios de correção e comentários profissionais.
 
 Dessa forma, a ferramenta atua como um suporte dinâmico na preparação para exames de alto desempenho, unindo a agilidade tecnológica à precisão da correção especializada.
 
@@ -36,17 +36,17 @@ _____________________________________________________
 
 A proposta é apoiar o estudante por meio de:
 
-• **Diagnóstico de Competências:** Identificação automatizada de lacunas em gramática, coesão, coerência e proposta de intervenção.
+• **Diagnóstico de Competências por Faixa: Identificação automatizada de lacunas de aprendizado com base no desempenho do aluno nos níveis Fácil, Médio e Difícil.**
 
-• **Métricas de Desempenho Evolutivo:** Dashboards que monitoram a progressão das notas e a redução de erros recorrentes ao longo do tempo.
+• **Métricas de Desempenho Evolutivo: Dashboards que monitoram a progressão de acertos por disciplina (HTML, CSS, PYTHON e JAVA) e a evolução do tempo médio de resolução por questão.**
 
-• **Cronometragem Estratégica (Timer):** Ferramenta integrada de controle de tempo para simular a pressão real dos exames e monitorar a velocidade de escrita.
+• **Simulado Completo e Cronometrado: Disponibilização exclusiva no Nível Difícil de um simulado robusto composto por 40 questões integradas, acompanhado por um timer regressivo de 4 horas para emular a pressão real do dia da prova.**
 
-• **Ciclo de Correção Bimodal:** Integração entre o feedback instantâneo da Inteligência Artificial e a análise subjetiva de tutores especialistas.
+• **Ciclo de Resolução Bimodal: Integração entre a resolução de questões isoladas de fixação (Níveis Fácil e Médio) e o desafio de resistência mental de longa duração (Nível Difícil).**
 
-• **Correções de Alta Eficiência:** Devolutivas objetivas e diretas, focadas na resolução imediata de erros estruturais e gramaticais.
+• **Gabarito de Alta Eficiência: Resoluções objetivas e diretas, focadas na explicação passo a passo das alternativas para a correção imediata de lacunas teóricas.**
 
-O sistema prioriza a excelência na escrita, incentivando o pensamento crítico, a fluidez argumentativa e a autonomia do estudante na construção de textos de alto impacto.
+O sistema prioriza a excelência acadêmica, incentivando o raciocínio lógico, a resistência física e cognitiva em provas longas, e a autonomia do estudante na conquista de uma nota competitiva no ENADE.
 
 _____________________________________________________
 # 💻 Arquitetura Técnica
